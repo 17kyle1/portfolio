@@ -1,0 +1,18 @@
+
+h1,h2 {
+    padding-top: 30px;
+    left: 0;
+    line-height: 0.5px;
+    color: powderblue;
+    height: 0px;
+}
+.first-project,.second-project {
+    box-sizing: border-box;
+    color: honeydew;
+    font-size: 25px
+}
+.second-project {
+    padding-bottom: 25px;
+}
+
+

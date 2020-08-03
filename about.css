@@ -1,0 +1,26 @@
+
+.section-left {
+        font-size: 25px;
+        padding-top: 10px;
+        color: cornsilk;
+        text-align: left;
+        float: left;
+        overflow: auto;
+    }
+    h1,h2 {
+        font-size: 30px;
+        padding-top: 15px;
+        left: 0%;
+        color: powderblue;
+    }
+    
+    .section-right {
+        font-size: 25px;
+        padding-bottom: 2em;
+        color: cornsilk;
+        float: right;
+        text-align: left;
+        overflow: auto
+    }
+    
+   
